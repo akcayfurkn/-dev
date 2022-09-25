@@ -1,0 +1,13 @@
+.ustkisim{
+    text-align: center;
+}
+
+.iframeContainer{
+    width: 100%;
+    border: none;
+    /* position: absolute; */
+}
+
+nav{
+    word-spacing: 25px;
+}
